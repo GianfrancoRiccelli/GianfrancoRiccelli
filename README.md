@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gian</h1>
 <h3 align="center">A 4th-year Information Systems Engineering student at UTN and Java Developper</h3>
 
-- 🔭 I’m currently working on **an Accenture project with Banco Galicia as a backend developper**
+🔭 I’m currently working on **an Accenture project with Banco Galicia as a backend developper**
 
 
 <h3 align="left">Languages and Tools:</h3>
