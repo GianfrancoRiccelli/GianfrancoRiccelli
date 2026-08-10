@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gian</h1>
-<h3 align="center">A 4th-year Information Systems Engineering student at UTN and Java Developper</h3>
+<h3 align="center">A 5th-year Information Systems Engineering student at UTN and Java Developper</h3>
 
 🔭 I’m currently working on **an Accenture project as a backend developper**
 
